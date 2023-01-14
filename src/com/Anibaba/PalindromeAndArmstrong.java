@@ -14,13 +14,13 @@ public class PalindromeAndArmstrong {
         if(orgNum == revNum){
             System.out.println(orgNum + " it is a palindrome number");
         }else{
-            System.out.println(orgNum + " it is not a palindrome number");
+            System.out.println(orgNum + " it is not a Palindrome number");
         }
 
         if(orgNum == armstr){
-            System.out.println(orgNum + " it is a armstrong number");
+            System.out.println(orgNum + " it is a Armstrong number");
         }else{
-            System.out.println(orgNum + " it is not a armstrong number");
+            System.out.println(orgNum + " it is not a Armstrong number");
         }
     }
 }
