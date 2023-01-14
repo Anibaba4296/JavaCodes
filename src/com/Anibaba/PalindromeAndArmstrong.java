@@ -12,7 +12,7 @@ public class PalindromeAndArmstrong {
             num = num / 10;
         }
         if(orgNum == revNum){
-            System.out.println(orgNum + " it is a palindrome number");
+            System.out.println(orgNum + " it is a Palindrome number");
         }else{
             System.out.println(orgNum + " it is not a Palindrome number");
         }
