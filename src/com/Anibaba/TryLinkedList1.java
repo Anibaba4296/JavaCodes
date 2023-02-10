@@ -47,6 +47,8 @@ public class TryLinkedList1 {
         }
         System.out.println();
 
+        // reverse the linked list
+
 
     }
 }
